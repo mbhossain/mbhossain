@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mbhossain3108@gmail.com](https://www.linkedin.com/in/mohammad-belal-b695aa202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKuxc8bd7RbGAu7yEtbGhKg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbhossain3108@gmail.com" height="30" width="40" /></a>
-<a href="[https://fb.com/king.cseiu@gmail.com](https://www.facebook.com/king.billah)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="king.cseiu@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-belal-b695aa202?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bkfydvb%2f7qnamvru1urxkrw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-belal-b695aa202?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bkfydvb%2f7qnamvru1urxkrw%3d%3d" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/king.billah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/king.billah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
