@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Billal Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [RentMy]([http://27.147.238.114:9999/pridebook/#/login](https://rentmy.co/))
+- 🔭 I’m currently working on [RentMy](https://rentmy.co/)
 
 - 🌱 I’m currently learning **Javascript | Typescript | Angular | React | Node.js | Express**
 
