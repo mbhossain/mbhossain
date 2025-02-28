@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript | Angular**
 
-- 📫 How to reach me **mohammadbelal.cseiu@gmail.com**
+- 📫 How to reach me **billal.cseiu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tR-ebg47g_7ZrpYBSZp7uHjEFe8ccEDK/view?usp=sharing](https://drive.google.com/file/d/1tR-ebg47g_7ZrpYBSZp7uHjEFe8ccEDK/view?usp=sharing)
 
